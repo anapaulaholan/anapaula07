@@ -1,2 +1,2 @@
 # Loja bijúterias
-pulseras,brincoz,aneis,colar
+pulseras,brincos,aneis,colar
