@@ -1,2 +1,2 @@
-# anapaula07
-loja de bijuterias
+# Loja bijúterias
+pulseras,brincoz,aneis,colar
